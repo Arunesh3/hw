@@ -1,0 +1,12 @@
+What is the difference between supervised, unsupervised and reinforcement learning ?
+In supervised learning we provide the computer a well labelled data set.
+In unsupervised learning we provide the computer a raw data.
+In reinforcement learning we want the computer to learn with experience. It is given a little data and then computer learns from its own mistake. Ex- Self driving cars
+
+What is machine learning?
+Machine learning focuses on the use of data and algorithms to imitate the way that humans learn, improving its accuracy.
+
+What are libraries in Python? Give few examples
+
+Libraries are collections of pre-written code modules that provide various functionalities and can be imported into your programs. These libraries save you time and effort by offering ready-made solutions for common 
+tasks, such as working with data, performing mathematical operations, creating graphical user interfaces, etc. Ex - Pandas , numpy etc.
